@@ -1,0 +1,16 @@
+{
+  "name": "quotex-mobile-loader",
+  "version": "2.0.0",
+  "description": "Mobile-optimized Quotex loader",
+  "main": "api/loader.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
